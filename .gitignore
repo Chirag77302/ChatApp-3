@@ -2,4 +2,9 @@
 node_modules
 
 #builds
-public
+#public
+
+#sources
+src
+client
+
